@@ -4,7 +4,7 @@
 ## ✍️ Instructions
 1. Every student must solve the following questions.  
 2. Create a separate **branch with your name** (example: `rahul-branch`).  
-3. Submit your solutions as Python files (e.g., `rahul_fibonacci.py`).  
+3. Submit your solutions as Python files (e.g., `rahul_prime.py`).  
 4. Push your code to your branch only. Do **not** change the `main` branch.  
 5. Deadline for submission: **28 August 2025**
 
@@ -16,13 +16,10 @@
 ---
 
 ## 📤 Submission Format
-- File name format: `yourname_questionname.py`  
+- File name format: `yourname_prime.py`  
   Example:  
-  - `rahul_fibonacci.py`  
-  - `rahul_prime.py`  
-  - `rahul_reverse.py`  
-
----
+ - `rahul_prime.py`  
+ ---
 
 ## ✅ Example
 If your name is Priya and you are solving Fibonacci:  
