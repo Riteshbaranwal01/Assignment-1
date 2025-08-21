@@ -1,2 +1,41 @@
 # Assignment-1
-First Assignment
+# 📑 Assignment 1 - Python Basics
+
+## ✍️ Instructions
+1. Every student must solve the following questions.  
+2. Create a separate **branch with your name** (example: `rahul-branch`).  
+3. Submit your solutions as Python files (e.g., `rahul_fibonacci.py`).  
+4. Push your code to your branch only. Do **not** change the `main` branch.  
+5. Deadline for submission: **28 August 2025**
+
+---
+
+## 📝 Questions
+
+**Q1.** Write a Python program to check whether a given number is Prime or not.  
+
+**Q2.** Write a Python program to reverse a string (without using built-in reverse functions).  
+
+---
+
+## 📤 Submission Format
+- File name format: `yourname_questionname.py`  
+  Example:  
+  - `rahul_fibonacci.py`  
+  - `rahul_prime.py`  
+  - `rahul_reverse.py`  
+
+---
+
+## ✅ Example
+If your name is Priya and you are solving Fibonacci:  
+File name → `priya_fibonacci.py`  
+
+---
+
+## ⚠️ Rules
+- Do not modify other students’ files.  
+- Work only in your own branch.  
+- Late submissions may not be accepted.  
+
+---
