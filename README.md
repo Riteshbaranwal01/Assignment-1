@@ -13,9 +13,6 @@
 ## 📝 Questions
 
 **Q1.** Write a Python program to check whether a given number is Prime or not.  
-
-**Q2.** Write a Python program to reverse a string (without using built-in reverse functions).  
-
 ---
 
 ## 📤 Submission Format
