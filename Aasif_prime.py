@@ -1,67 +1,17 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": [],
-      "authorship_tag": "ABX9TyPQLle3vdJLxdDigpKi/E1C",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/Riteshbaranwal01/Assignment-1/blob/Aasif-branch/Aasif_prime.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "# Write a Python program to check whether a given number is Prime or not.\n",
-        "\n",
-        "a = int(input(\"Enter a number: \"))\n",
-        "\n",
-        "if a <= 1:\n",
-        "    print(\"The number is not a prime number\",a)\n",
-        "else:\n",
-        "    for i in range(2, a):\n",
-        "        if a % i == 0:\n",
-        "            print(\"The number is not a prime number\",a)\n",
-        "            break\n",
-        "    else:\n",
-        "        print(\"The number is a prime number\",a)\n",
-        "# Coding complete."
-      ],
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "eGnYu_mWRPw_",
-        "outputId": "49874e5b-dd6d-40a6-87e4-a76720df493c"
-      },
-      "execution_count": null,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Enter a number: 13\n",
-            "The number is a prime number 13\n"
-          ]
-        }
-      ]
-    }
-  ]
-}
+# Write a Python program to check whether a given number is Prime or not.
+
+a = int(input("Enter a number: "))
+
+if a <= 1:
+    print("The number is not a prime number",a)
+else:
+    for i in range(2, a):
+        if a % i == 0:
+            print("The number is not a prime number",a)
+            break
+    else:
+        print("The number is a prime number",a)
+
+  # Coding Complete.
+
+# Thank you 😊. 
