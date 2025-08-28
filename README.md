@@ -6,7 +6,6 @@
 2. Create a separate **branch with your name** (example: `rahul-branch`).  
 3. Submit your solutions as Python files (e.g., `rahul_prime.py`).  
 4. Push your code to your branch only. Do **not** change the `main` branch.  
-5. Deadline for submission: **28 August 2025**
 
 ---
 
@@ -22,13 +21,13 @@
  ---
 
 ## ✅ Example
-If your name is Priya and you are solving Fibonacci:  
-File name → `priya_fibonacci.py`  
+If your name is Priya and you are solving prime:  
+File name → `priya_prime.py`  
 
 ---
 
 ## ⚠️ Rules
-- Do not modify other students’ files.  
+- Do not modify other students’ branch files.  
 - Work only in your own branch.  
 - Late submissions may not be accepted.  
 
